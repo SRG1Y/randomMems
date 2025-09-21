@@ -1,2 +1,0 @@
-# randomMems
-Random Anime
